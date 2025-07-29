@@ -1,5 +1,6 @@
 Next.js Auth.js Crash Course 🚀
-This is a Next.js project bootstrapped with create-next-app. It includes authentication functionality using Auth.js.
+
+This is a Next.js project tailwind with create-next-app. It includes authentication functionality using Auth.js.
 
 GitHub Repository: auth.js-crash-course
 
