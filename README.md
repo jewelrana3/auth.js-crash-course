@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Next.js Auth.js Crash Course 🚀
+This is a Next.js project bootstrapped with create-next-app. It includes authentication functionality using Auth.js.
 
-## Getting Started
+GitHub Repository: auth.js-crash-course
 
-First, run the development server:
+🛠️ Getting Started
+Clone the repository:
 
-```bash
+bash
+Copy
+Edit
+git clone https://github.com/jewelrana3/auth.js-crash-course.git
+cd auth.js-crash-course
+Install dependencies and run the development server:
+
+bash
+Copy
+Edit
+
+# Using npm
+
+npm install
 npm run dev
-# or
+
+# or using yarn
+
+yarn install
 yarn dev
-# or
+
+# or using pnpm
+
+pnpm install
 pnpm dev
-# or
+
+# or using bun
+
+bun install
 bun dev
-```
+Open your browser and navigate to:
+👉 http://localhost:3000
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🧑‍💻 Development
+Start editing the homepage by modifying the file:
+app/page.tsx
+The app will automatically reload as you make changes.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project uses next/font to load the Geist font family, optimized for Vercel.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📚 Learn More
+Here are some helpful resources to get the most out of Next.js:
 
-## Learn More
+📖 Next.js Documentation – Features & API reference
 
-To learn more about Next.js, take a look at the following resources:
+🧑‍🏫 Learn Next.js – Interactive tutorial
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+💬 Next.js GitHub Repository – Feedback and contributions welcome!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🚀 Deployment
+The easiest way to deploy your Next.js app is with Vercel, the creators of Next.js.
 
-## Deploy on Vercel
+Deploy now:
+👉 Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+More info in the deployment documentation.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Let me know if you want this tailored further, or if you'd like a badge/header section at the top (e.g., build status, live demo, license, etc.).
